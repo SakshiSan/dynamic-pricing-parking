@@ -4,13 +4,13 @@ This repository contains two models that simulate dynamic pricing mechanisms for
 
 ---
 
-## 📁 Files Included
+## 📂 Files Included
 
-| File Name                           | Description                                        |
-|------------------------------------|----------------------------------------------------|
-| Model1_Dynamic_Pricing_Project.ipynb  | Streaming-based price modeling using Pathway       |
-| Model_2_Dynamic_Pricing_Final.ipynb   | Linear-based batch model for demand + price        |
-| dataset.csv                          | Dataset used in both models                        |
+| File Name | Description |
+|-----------|-------------|
+| [Model1_Dynamic_Pricing_Project.ipynb](Model1_Dynamic_Pricing_Project.ipynb) | Streaming-based price modeling using Pathway |
+| [Model_2_Dynamic_Pricing_Final.ipynb](Model_2_Dynamic_Pricing_Final.ipynb) | Linear-based batch model for demand + final price |
+| [dataset.csv](dataset.csv) | Dataset used in both models |
 
 ---
 
@@ -73,4 +73,4 @@ graph TD
 
 ## 📬 Contact
 
-For any queries, raise an issue or contact [Your GitHub Username].
+For any queries, raise an issue or contact [SakshiSan].
